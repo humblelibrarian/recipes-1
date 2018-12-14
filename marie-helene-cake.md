@@ -6,6 +6,7 @@
 	Sugar
 	Lemon?
 
-Slice apples
+Slice apples 
+
 Preheat oven to 375 degrees F
 
