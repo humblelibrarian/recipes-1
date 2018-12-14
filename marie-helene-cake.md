@@ -7,3 +7,5 @@
 	Lemon?
 
 Slice apples
+Preheat oven to 375 degrees F
+
